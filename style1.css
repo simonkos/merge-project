@@ -1,10 +1,13 @@
 body{
 background:red;
 color:black;
+margin: 0 auto;
 }
 div {
 background-color: yellow;
 }
 p{
 color: blue;
+padding: 20px;
+
 }
